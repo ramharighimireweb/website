@@ -530,7 +530,7 @@ h1 > span {
 .works__image {
   width: 100%;
   height: auto;
-  /* max-height: 360px; */
+  max-height: 360px;
 }
 
 .works__name {
