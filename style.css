@@ -771,7 +771,7 @@ h1 > span {
 @media (min-width: 62.5em) {
   .contact__wrapper {
     display: grid;
-    grid-template-columns: repeat(2, 27.8rem);
+    /* grid-template-columns: repeat(2, 27.8rem); */
     justify-content: space-between;
   }
 
